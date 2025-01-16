@@ -69,5 +69,4 @@ python train_model.py
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For any queries, please contact [Your Name] at [your.email@example.com].
+
